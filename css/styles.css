@@ -4,3 +4,7 @@ body {
 }
 /*finally got thsi style shhet to work!
 it was css/styles.css not just styles.css*/
+
+section{
+	display: flex;
+}
