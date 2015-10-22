@@ -7,4 +7,5 @@ it was css/styles.css not just styles.css*/
 
 section{
 	display: flex;
+	width: 30%;
 }
