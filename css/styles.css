@@ -1,11 +1,11 @@
 body {
 	color: pink;
 	font-family: sans-serif;
+	display: flex;
 }
 /*finally got thsi style shhet to work!
 it was css/styles.css not just styles.css*/
 
 section{
-	display: flex;
 	width: 30%;
 }
